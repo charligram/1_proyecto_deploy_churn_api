@@ -68,6 +68,7 @@ Ejemplo de response:
 }
 
 1: Cliente con posibilidad de churn
+
 0: Cliente con poco riesgo de churn
 
 ## ❗ Detalles
